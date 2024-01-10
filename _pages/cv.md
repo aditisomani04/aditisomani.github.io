@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Aditi Somani"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+- Email: aditisomani04@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/aditisomani04/)
+- [GitHub](https://github.com/aditisomani04)
 
-{% include base_path %}
 
 Education
 ======
